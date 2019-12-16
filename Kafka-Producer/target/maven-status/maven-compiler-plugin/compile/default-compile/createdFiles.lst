@@ -1,0 +1,4 @@
+com\techprimers\kafka\springbootkafkaproducerexample\model\User.class
+com\techprimers\kafka\springbootkafkaproducerexample\config\KakfaConfiguration.class
+com\techprimers\kafka\springbootkafkaproducerexample\resource\UserResource.class
+com\techprimers\kafka\springbootkafkaproducerexample\SpringBootKafkaProducerExampleApplication.class
